@@ -236,5 +236,12 @@
     .menu-spacing{
         display: none;
     }
+    
+    .intro-text-content h2{
+        font-size: 4rem;
+        margin-bottom: 3rem;
+        text-transform: uppercase;
+        line-height: 1;
+    }
 
 }
